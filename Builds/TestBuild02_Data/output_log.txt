@@ -1,0 +1,1689 @@
+Initialize engine version: 4.2.0f4 (38efbd14869d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumd32.dll 9.17.10.3062]
+    Renderer: Intel(R) HD Graphics 3000
+    Vendor:   Intel
+    VRAM:     880 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Buddy\Documents\GitHub\Guardian\Builds\TestBuild02_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Buddy\Documents\GitHub\Guardian\Builds\TestBuild02_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Buddy\Documents\GitHub\Guardian\Builds\TestBuild02_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Buddy\Documents\GitHub\Guardian\Builds\TestBuild02_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Buddy\Documents\GitHub\Guardian\Builds\TestBuild02_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Buddy\Documents\GitHub\Guardian\Builds\TestBuild02_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Buddy\Documents\GitHub\Guardian\Builds\TestBuild02_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Buddy\Documents\GitHub\Guardian\Builds\TestBuild02_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.069 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+The file 'C:/Users/Buddy/Documents/GitHub/Guardian/Builds/TestBuild02_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds! 18168 > 18164]
+ 
+(Filename:  Line: 269)
+
+The file 'C:/Users/Buddy/Documents/GitHub/Guardian/Builds/TestBuild02_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds! 18168 > 18164]
+ 
+(Filename:  Line: 276)
+
+1
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at NetworkManager.SpawnPlayer () [0x00000] in <filename unknown>:0 
+  at NetworkManager.OnConnectedToServer () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
+Parameter 'Pivot' does not exist.
+ 
+(Filename:  Line: 2495)
+
